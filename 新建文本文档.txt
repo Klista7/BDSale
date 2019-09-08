@@ -1,0 +1,82 @@
+名称:	以太网 2
+描述:	Sangfor SSL VPN CS Support System VNIC
+物理地址(MAC):	00:ff:b9:2b:37:c0
+状态:	不可操作
+最大传输单元:	1400
+IPv4 地址:	2.0.6.17/24
+IPv6 地址:	fe80::c68:5692:f6:db81%18/64
+DNS 服务器:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+连接性(IPv4/IPv6):	已断开连接
+	                                   
+	                                   
+名称:	本地连接* 1
+描述:	Microsoft Wi-Fi Direct Virtual Adapter
+物理地址(MAC):	d0:c6:37:be:0e:f2
+状态:	不可操作
+最大传输单元:	1500
+IPv4 地址:	169.254.239.44/16
+IPv6 地址:	fe80::2c53:2255:df51:ef2c%7/64
+DNS 服务器:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+连接性(IPv4/IPv6):	已断开连接
+	                                   
+	                                   
+名称:	本地连接* 10
+描述:	Microsoft Wi-Fi Direct Virtual Adapter #2
+物理地址(MAC):	d2:c6:37:be:0e:f1
+状态:	不可操作
+最大传输单元:	1500
+IPv4 地址:	169.254.214.65/16
+IPv6 地址:	fe80::10eb:7765:ee1c:d641%11/64
+DNS 服务器:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+连接性(IPv4/IPv6):	已断开连接
+	                                   
+	                                   
+名称:	以太网
+描述:	Realtek PCIe GbE Family Controller
+物理地址(MAC):	b0:25:aa:2d:a3:07
+状态:	可操作
+最大传输单元:	1500
+链接速度(接收/传输):	100/100 (Mbps)
+DHCP 已启用:	是
+DHCP 服务器:	192.168.0.1
+DHCP 租约获得时间:	‎2019‎年‎9‎月‎6‎日 12:21:38
+DHCP 租约到期时间:	‎2019‎年‎9‎月‎7‎日 12:21:38
+IPv4 地址:	192.168.0.109/24
+IPv6 地址:	fe80::789d:fc7a:4a2b:2df7%17/64
+默认网关:	192.168.0.1
+DNS 服务器:	192.168.0.1
+DNS 域名:	www.tendawifi.com
+DNS 连接后缀:	www.tendawifi.com
+DNS 搜索后缀列表:	
+网络名称:	8－116
+网络类别:	公共
+连接性(IPv4/IPv6):	已连接到 Internet / 已连接到 未知网络
+	                                   
+	                                   
+名称:	WLAN
+描述:	Intel(R) Wireless-AC 9462
+物理地址(MAC):	d0:c6:37:be:0e:f1
+状态:	不可操作
+最大传输单元:	1500
+IPv4 地址:	169.254.99.47/16
+IPv6 地址:	fe80::ddd1:f1b8:7b2b:632f%10/64
+DNS 服务器:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+连接性(IPv4/IPv6):	已断开连接
+	                                   
+	                                   
+名称:	蓝牙网络连接
+描述:	Bluetooth Device (Personal Area Network)
+物理地址(MAC):	d0:c6:37:be:0e:f5
+状态:	不可操作
+最大传输单元:	1500
+连接性(IPv4/IPv6):	已断开连接
+	                                   
+	                                   
+名称:	以太网 3
+描述:	Remote NDIS Compatible Device
+物理地址(MAC):	f6:7b:14:b6:c5:bc
+状态:	不可操作
+最大传输单元:	1500
+连接性(IPv4/IPv6):	已断开连接
+	                                   
+	                                   
