@@ -14,4 +14,4 @@
 其实单线程也是一个原因
 
 注：界面语法不会，待优化（Markdowm）
-<http://example.com/>
+This is [an example](http://example.com/ "Title") inline link.
